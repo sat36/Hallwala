@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from storage.googleapis.com/themeforest-hotel-empier/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 24 Jun 2017 01:10:44 GMT -->
 <head>
     <title>Hallwala.com</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
